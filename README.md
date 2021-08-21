@@ -9,3 +9,4 @@ This Dockerfile assumes the following:
 
 To learn more about JFrog Platform integration with Docker, visit [Docker Registry Documentation](https://www.jfrog.com/confluence/display/JFROG/Docker+Registry).
 
+![Docker Challenge](dennislwm.png)
